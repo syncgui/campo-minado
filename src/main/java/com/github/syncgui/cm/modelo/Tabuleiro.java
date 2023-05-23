@@ -1,2 +1,4 @@
-package com.github.syncgui.cm.modelo.visao.excecao;public class Tabuleiro {
+package com.github.syncgui.cm.modelo;
+
+public class Tabuleiro {
 }
